@@ -21,7 +21,8 @@ const fontSans = FontSans({
   variable: '--font-sans'
 })
 
-const title = 'Morphic'
+<h1 className="text-2xl font-[Georgia] font-bold">Infinity</h1>
+
 const description =
   'A fully open-source AI-powered answer engine with a generative UI.'
 
